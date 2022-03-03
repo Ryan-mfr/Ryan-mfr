@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryan-mfr
-- 👀 I’m interested in software development-web application-web service
-- 🌱 I’m currently learning Kotlin-PHP
+- 👀 I’m interested in software development-web application-web service-Artificial Intelligence
+- 🌱 Kotlin | Java | vb.net | PHP | SQL | Python
 - 📫 How to reach me-> ryanradoosing@gmail.com
 
 <!---
